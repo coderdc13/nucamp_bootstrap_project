@@ -83,6 +83,23 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
+![text](/img/nb4.png)
+
+
+
+
+
+
+
+![text](/img/nb5.png)
+
+
+
+
+
+
+
+![text](/img/nb6.png)
 
 
 
@@ -93,6 +110,7 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
+![text](/img/nb7.png)
 
 
 
@@ -100,6 +118,34 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
+
+![text](/img/nb8.png)
+
+
+
+
+
+
+
+![text](/img/nb9.png)
+
+
+
+
+
+
+
+![text](/img/nb10.png)
+
+
+
+
+
+
+
+
+
+![text](/img/nb11.png)
 
 
 
