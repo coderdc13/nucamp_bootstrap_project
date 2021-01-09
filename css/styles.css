@@ -1,0 +1,108 @@
+/*
+Below Week Four, Task Three of Three, 2/6
+In your styles.scss file, create a new color variable at the top, named $color-teal. Give it the value of #17A2B8.
+
+*/
+/*
+Above Week Four, Task Three of Three, 2/6
+In your styles.scss file, create a new color variable at the top, named $color-teal. Give it the value of #17A2B8.
+
+*/
+body {
+  font-family: "Open Sans", sans-serif; }
+
+  h1, h2, h3 {
+    font-family: "Dancing Script", cursive;
+    color: yellow;
+}
+
+h2 {
+  color: #3046C5; }
+
+header h2 {
+  color: #CEC8FF; }
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0; }
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
+  color: white; }
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
+
+.navbar-dark {
+  background-color: #901CAD; }
+
+.tab-content {
+  border: 1px solid #000;
+  border-top: none;
+  padding: 10px; }
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+.carousel {
+  border: solid #5637dd; }
+
+.chooser, .bottomer {
+  color: white; }
+
+/*
+Below Week Four, Task Three of Three, 3/6
+At the bottom of the styles.scss file, use the nesting functionality of Sass to set up CSS rules for the Reserve and Login modals, using their ids to set up the first level of the nesting, then the class "modal-header" for the inner level. 
+Refer back to how you used the element "header" for the first level of nesting previously, then the element "h2" for the inner level, so that you were only targetting the h2 element inside the header element.
+This will be similar, except that you are using IDs and classes instead of element names as your selectors.
+*/
+/*
+Below Week Four, Task Three of Three, 4/6
+Write the rule for the Reserve modal's modal-header so that it uses the background color of $color-teal. Also set it up to have white text.
+*/
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+/*
+Above Week Four, Task Three of Three, 4/6
+Write the rule for the Reserve modal's modal-header so that it uses the background color of $color-teal. Also set it up to have white text.
+*/
+/*
+Below Week Four, Task Three of Three, 5/6
+Write the rule for the Login modal's modal-header so that it uses the background color of $color-mid. Also set it up to have white text.
+*/
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
+
+/*
+Above Week Four, Task Three of Three, 5/6
+Write the rule for the Login modal's modal-header so that it uses the background color of $color-mid. Also set it up to have white text.
+*/
+/*
+Above Week Four, Task Three of Three, 3/6
+At the bottom of the styles.scss file, use the nesting functionality of Sass to set up CSS rules for the Reserve and Login modals, using their ids to set up the first level of the nesting, then the class "modal-header" for the inner level. 
+Refer back to how you used the element "header" for the first level of nesting previously, then the element "h2" for the inner level, so that you were only targetting the h2 element inside the header element.
+This will be similar, except that you are using IDs and classes instead of element names as your selectors.
+*/
+/*
+Above Week Four, Task Three of Three, 6/6
+Run npm start and confirm that your SCSS is compiled to CSS and that the colors render correctly, as shown in the screenshot below.
+Match with screenshot was verified before submission of student-author (me, Franklin Bueno)...
+*/
+
+
+.subheading {
+  color: purple;
+}
