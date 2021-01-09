@@ -58,7 +58,7 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
-![text](/Screenshots/Screenshot%20(2168).png)
+![text](/img/nb1.png)
 
 
 
@@ -66,6 +66,7 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
+![text](/img/nb2.png)
 
 
 
@@ -73,6 +74,7 @@ Specifically for this project, the student author wanted to focus primarily on r
 
 
 
+![text](/img/nb3.png)
 
 
 
